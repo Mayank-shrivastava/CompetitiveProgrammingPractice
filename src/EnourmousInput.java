@@ -14,8 +14,6 @@ import java.util.StringTokenizer;
 public class EnourmousInput {
     public static void main(String[] args) {
         FastScanner fastScanner = new FastScanner();
-
-
     }
 }
 
