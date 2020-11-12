@@ -8,12 +8,9 @@
 public class EnourmousInput {
     public static void main(String[] args) {
         // swapping operation
-        int a = 4, b = 5;
-        int temp = 0;
-        temp = a;
-        a = b;
-        b = temp;
-        System.out.println(a + "," + b);
+        String str = "helloworld";
+        boolean result = str.contains("hello");
+        System.out.println(result);
     }
 }
 
